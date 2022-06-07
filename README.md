@@ -92,6 +92,9 @@ for cat_image in images_list:
     plt.imshow(image)
     plt.show()
 ```
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## Output:
 ![image](https://user-images.githubusercontent.com/75234991/172392163-1a0afe2f-9551-4437-8b93-fde3d5f36eeb.png)
 
